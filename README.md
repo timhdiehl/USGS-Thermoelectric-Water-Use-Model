@@ -1,7 +1,7 @@
 # USGS-Thermoelectric-Water-Use-Model
 ---
 title: "README"
-author: "Victor Roland II"
+
 date: "09 April, 2019"
 output:
   md_document:
